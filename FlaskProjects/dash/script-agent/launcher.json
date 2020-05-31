@@ -1,4 +1,0 @@
-{
-  "CMD":"python ./main.py",
-  "AUTORESTART": true
-}
